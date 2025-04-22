@@ -1,8 +1,8 @@
 ## Hi there 👋
-# I am new to GitHub.
-# I am trying to learn about new technologies.
-# I like reading books.
-# I will usw this account for learning purposes only.
+### I am new to GitHub.
+### I am trying to learn about new technologies.
+### I like reading books.
+### I will usw this account for learning purposes only.
 
 
 
